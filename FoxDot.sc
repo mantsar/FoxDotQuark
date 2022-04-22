@@ -57,7 +57,7 @@ FoxDot
 	{
 		arg port=0;
 
-		MIDIClient.init;
+		// MIDIClient.init;
 
 		midiout = MIDIOut(port);
 
